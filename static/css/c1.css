@@ -1,0 +1,25 @@
+h1
+{
+    margin: 5px;
+
+    color: green;
+    background-color: blue;
+}
+img
+{
+    border-radius: 50px;
+    border-radius: 50px;
+}
+h2
+{
+    color: brown;
+    background-image: yellow;
+}
+nav>h2
+{
+    color: black;
+    background-color: yellow;
+    text-align: center;
+}
+
+
